@@ -1,0 +1,8 @@
+{
+  "name": "GroomHub",
+  "description": "A premier beauty service and product marketplace for Pakistan. Book top barbers/salons and shop trending beauty products.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
